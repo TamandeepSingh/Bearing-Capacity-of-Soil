@@ -1,0 +1,86 @@
+# Created by Octave 4.2.0, Wed Jun 14 14:27:46 2017 GMT <unknown@unknown>
+# name: Bearing_capacity_factors
+# type: matrix
+# rows: 11
+# columns: 4
+ 0 5.14 1 0
+ 5 6.49 1.57 0.45
+ 10 8.35 2.47 1.22
+ 15 10.98 3.94 2.65
+ 20 14.83 6.4 5.39
+ 25 20.72 10.66 10.88
+ 30 30.14 18.4 22.4
+ 35 46.12 33.3 48.03
+ 40 75.31 64.22 109.41
+ 45 138.88 132.88 271.76
+ 50 266.89 319.07 762.89
+
+
+# name: Cohesion
+# type: scalar
+4
+
+
+# name: Depth_of_footing
+# type: scalar
+1
+
+
+# name: Depth_of_foundation
+# type: scalar
+1
+
+
+# name: Dw
+# type: scalar
+2
+
+
+# name: Gamma
+# type: scalar
+16.8
+
+
+# name: Length_of_foundation
+# type: scalar
+1
+
+
+# name: Unit_weight_of_soil
+# type: scalar
+16.8
+
+
+# name: Water_table_correction_factor
+# type: scalar
+1
+
+
+# name: Width_of_footing
+# type: scalar
+1
+
+
+# name: Width_of_foundation
+# type: matrix
+# rows: 2
+# columns: 4
+1 2 3 4
+3 4 5 6 
+
+# name: alpha
+# type: scalar
+0
+
+# name: phi
+# type: scalar
+26
+
+# name: shape
+# type: string
+# elements: 1
+# length: 9
+rectangle
+
+
+
